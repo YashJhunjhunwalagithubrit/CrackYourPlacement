@@ -1,4 +1,4 @@
-class SoContainerWithMostWaterlution {
+class ContainerWithMostWaterlution {
     public int maxArea(int[] height) {
         int left=0;
         int right=height.length-1;
